@@ -86,7 +86,7 @@ In future projects, I plan to delve deeper into:
 ### Author
 
 - Frontend Mentor - [@dilminekanayaka](https://www.frontendmentor.io/profile/dilminekanayaka)
-- Twitter - [@dilminekanayaka](https://www.twitter.com/dilminekanayaka)
+- Behance - [@dilminekanayaka](https://www.behance.net/dilminekanayake)
 
 ### Acknowledgments
 
